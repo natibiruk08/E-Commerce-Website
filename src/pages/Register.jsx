@@ -8,7 +8,7 @@ const Container = styled.div`
       rgba(255, 255, 255, 0.5),
       rgba(255, 255, 255, 0.5)
     ),
-    url("https://i.postimg.cc/qqkPQCVY/4-K-UHD-Laptops-1.jpg") center;
+    url("https://i.postimg.cc/PxZ3gbkJ/lap.jpg") center;
   background-size: cover;
   display: flex;
   align-items: center;
