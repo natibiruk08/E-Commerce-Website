@@ -12,7 +12,7 @@ const Container = styled.div`
 
 const Announcement = () => {
   return (
-    <Container>Super Deal! Free Shipping on orders over 20,000 birr</Container>
+    <Container>Super Deal! Free Delivery on orders over 5000 Birr</Container>
   );
 };
 
